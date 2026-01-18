@@ -20,7 +20,11 @@
 ### 📡 subject cores
 * **Goal:** Master Control Systems (Routh-Hurwitz, State-Space) & DCMOS.
 * **Deadline:** March 31, 2026.
-
+day 20th
+60clock madhav raio paper properly study 
+mr lecture complete 
+dd videos 2-3 
+and ece gate prepratioon
 ---
 
 ## 📅 The Daily Engineering Log
